@@ -1,0 +1,14 @@
+1. What Is This Technology
+Data Analysis is the process of collecting, cleaning, and analyzing data to find meaningful insights and support better decision-making.
+
+2. Where It Is Used
+It is used in industries like banking, healthcare, e-commerce, marketing, education, and IT companies to improve business performance.
+
+3. Required Skillset
+Important skills include Excel, SQL, Python, Microsoft Power BI, NumPy, data visualization, statistics, and problem-solving.
+
+4. Career Opportunity
+Career options include Data Analyst, Business Analyst, Data Scientist, BI Developer, Reporting Analyst, and Product Analyst.
+
+5. Future Scope
+Data Analysis has strong future demand because companies rely on data-driven decisions, AI growth is increasing, and career opportunities continue expanding worldwide.
